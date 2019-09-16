@@ -84,8 +84,8 @@ console.log(inventory.values[32]);
 
 // ==== Challenge 2 ====
 // The dealer needs the information on the last car in their inventory.  What is the make and model of the last car in the inventory?  Log the make and model into the console.
-let lastCar = 0;
-console.log(inventory.car_make[inventory.length - 1], inventory.car_model[inventory.length - 1]);
+// let lastCar = 0;
+// console.log(inventory.car_make[inventory.length - 1], inventory.car_model[inventory.length - 1]);
 
 // ==== Challenge 3 ====
 // The marketing team wants the car models listed alphabetically on the website. Sort all the car model names into alphabetical order and log the results in the console
